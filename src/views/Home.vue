@@ -10,25 +10,25 @@ const isRoute = routeStore()
 const connetion = [
   {
     label: '邮箱',
-    value: 'baoruirui0430@qq.com',
+    value: 'zouchaolive@gmail.com',
     imgUrl: '',
     color: '#f6e58d',
   },
   {
     label: '电话',
-    value: '18618301673',
+    value: '+85363534098',
     imgUrl: '',
     color: '#ffbe76',
   },
   {
     label: '微信',
-    value: 'brr0430',
+    value: 'Miyin_ZC',
     imgUrl: '',
     color: '#ff7979',
   },
   {
     label: 'qq',
-    value: '2847530931',
+    value: '337317840',
     imgUrl: '',
     color: '#badc58',
   },
@@ -343,10 +343,10 @@ const width = window.screen.width
                 陈列生活的每一份美好
               </span>
               <span class="hidden  cursor-text text-[0.9rem] lt:block">
-                - <b class="italic">imagekit</b> 相片托管
+                - <b class="italic">ShenZhen</b> 深圳互勉约拍
               </span>
               <span class="hidden  cursor-text text-[0.9rem] lt:block">
-                - <b class="italic">gsap</b> 网页动效
+                - <b class="italic">Miyin</b> -觅音-
               </span>
               <span class="mx-0 my-2 hidden w-2/5 border-t-4 lt:block" />
               <button
